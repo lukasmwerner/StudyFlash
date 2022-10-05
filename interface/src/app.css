@@ -1,0 +1,23 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  background-image: linear-gradient(#d9d480 2px, transparent 2px), linear-gradient(to right, #d9d480 2px, transparent 2px);
+  background-size: 32px 32px;
+  background-color: #f7e3b9;
+  /*background-image: linear-gradient(gray 2px, transparent 2px), linear-gradient(to right, gray 2px, transparent 2px);
+  background-size: 32px 32px;
+  background-color: black;*/
+}
+body {
+  margin: 0;
+  padding: 0;
+}
